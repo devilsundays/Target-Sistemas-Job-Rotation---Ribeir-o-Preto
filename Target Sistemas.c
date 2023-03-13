@@ -76,7 +76,7 @@ int main ()
 #include <string.h>
 
 int main(void) {
-    char frase[] = "Socorram-me subi no onibus em Marrocos!";
+    char frase[] = "A BASE DO TETO DESABA";
     char tmp;
     int tam = strlen(frase);
     
